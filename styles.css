@@ -37,3 +37,8 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
+
+.icon{
+    float: left;
+    width: 28%;
+}
